@@ -1,5 +1,4 @@
-https://github.com/singledoggy/singledoggy- 👋 Hi, I’m @singledoggy
-- 👀 I’m mayjor in Atmosphere and Environment
-- 🌱 I’m currently learning Lin
+👋 Hi, I’m @singledoggy
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=singledoggy&theme=blue-green)
+-  I’m mayjor in Atmosphere and Environment.
+- [Here](https://samhan.fun/) is more about me 
